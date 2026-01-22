@@ -1,0 +1,20 @@
+<!--### Hi there 👋-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=Hey+There+!!;I'm+Nikhil)](https://git.io/typing-svg)
+
+<!--/* # :wave: Hey There !! I'm <a href = "">**Nikhil Pakhale**</a>*/-->
+- 🔭 I am currently a third year MnC undergraduate at IIT Ropar. 
+- 🌱: I am interested in fields like Software Development, Data Analytics and Data Science. 
+- 💻: I am proficient in SQL, Python, Pytourch,Data Analytics and AI/ML.
+- 🌐: Portfolio Website: https://vismays-portfolio.netlify.app/ 
+- ✨: Looking forward to collaborating on some amazing projects
+- 🤝: Let's get in touch
+<br><br><a href="https://www.linkedin.com/in/vismay-walde/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:vismaywalde@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  
+<h2>Languages and Tools:</h2><br>
+
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,html5,css3,javascript,nodedotjs,react,bootstrap,git,mysql)
+
+<br>
+
